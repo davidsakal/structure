@@ -1,0 +1,32 @@
+.left{
+    float: left;
+    background-color: blue;
+    width: 100px;
+}
+.head{
+    background-color: brown;
+}
+.right{
+    float: right;
+    background-color: aqua;
+    width: 100px;
+}
+.center{
+    text-align: center;
+    background-color: green;
+
+    float: none;
+}
+.nuz{
+    background-color: blueviolet;
+}
+.left2{
+    float: left;
+    background-color: blue;
+    width: 100px;
+    height: 65.2px;
+}
+.center1{
+background-color: green;
+margin: 0px 0px 10px 0px ;
+}

@@ -1,0 +1,32 @@
+.left{
+    float: left;
+    background-color: blue;
+    width: 140px;
+    height: 110px;
+    text-align: center;
+
+}
+.head{
+    background-color: brown;
+    text-align: center;
+    height: 100px;
+    
+}
+.right{
+    float: right;
+    background-color: aqua;
+    width: 150px;
+    height: 110px;
+    text-align: center;
+}
+.center{
+    text-align: center;
+    margin:0 150px 0 100px;
+}
+.down{
+    background-color: crimson;
+    text-align: center;
+    height: 50px;
+    position: relative;
+    top: 250px; 
+}

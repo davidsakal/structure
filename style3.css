@@ -1,0 +1,50 @@
+
+.wraper{
+    width: 100%;
+    height: 100vh;
+    background-color: blue;
+    margin:  0 auto;
+    padding: 0 10px;
+}
+.header{
+    position: relative;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    background-color: red;
+}
+.main {
+    display: flex;
+    justify-content: space-between;
+    height: 100%;
+  }
+.maincol{
+    flex-grow: 1;
+    float: left;
+    position: static;
+    width: 20%;
+    height: 90vh;
+    background-color: green;
+
+}
+.rightcol{
+    position: static;
+    width: 20%;
+    height: 90vh;
+    background-color: yellow;
+}
+.leftcol{
+    position: static;
+    width: 20%;
+    height: 90vh;
+    background-color: yellow;
+}
+.footer{
+    position: relative;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    background-color: red;
+    display: inline-flex;
+    bottom: 100px;
+}
